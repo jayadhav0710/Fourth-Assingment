@@ -1,0 +1,25 @@
+*{
+  background-color: rgb(153, 153, 216);
+  box-sizing: border-box;
+  
+  
+  
+  
+}
+.display{
+ display: inline-block;
+ margin: 20px;
+ 
+
+}
+
+
+.text{
+  background-color: whitesmoke;
+  height: 25px;
+  margin-top: -19px;
+  padding:3px;
+  
+  
+  
+}
